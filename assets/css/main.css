@@ -3321,3 +3321,7 @@ body.is-touch .poptrox-popup .closer {
     padding-left: 0;
   }
 }
+
+html {
+  scroll-behavior: smooth;
+}
